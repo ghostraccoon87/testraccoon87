@@ -22,8 +22,10 @@ plugin://plugin.video.youtube/?action=play_video&videoid=umNACDTH-BY
 
  #EXTINF:-1,BT Sports 2 HD+
  http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/238.ts
- #EXTINF:-1,Sky Sport 1 HD Deutch Germany
+ 
+#EXTINF:-1,Sky Sport 1 HD Deutch Germany
  http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/88.ts
+
  #EXTINF:-1,Sky Sport 2 HD Deutch Germany
  http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/89.ts
  #EXTINF:-1,Sky Bundesliga HD1
