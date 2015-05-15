@@ -16,293 +16,32 @@ plugin://plugin.video.youtube/?action=play_video&videoid=umNACDTH-BY
 #this_is_how_to-make_a_note
 
 
+#EXTINF:0,Disney
+http://46.249.20.129:8080/udp/233.195.89.10:3000
 
-#EXTINF:-1,TSN 1 720 HD
+#EXTINF:0,AMC
+http://46.249.20.129:8080/udp/233.195.89.19:3000
 
-http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
+#EXTINF:0,Cartoon Network
+http://46.249.20.129:8080/udp/233.195.89.36:3000
 
-#EXTINF:-1,TSN 2 720 HD
+#EXTINF:0,Discovery Channel
+http://46.249.20.129:8080/udp/233.195.89.38:3000
 
-http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+#EXTINF:0,Animal Planet
+http://46.249.20.129:8080/udp/233.195.89.39:3000
 
-#EXTINF:-1,TSN 3 720 HD
+#EXTINF:0,Extreme Sports
+http://46.249.20.129:8080/udp/233.195.89.72:3000
 
-http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
+#EXTINF:0,CBS Drama
+http://46.249.20.129:8080/udp/233.195.89.77:3000
 
-#EXTINF:-1,TSN 4 720 HD
+#EXTINF:0,TLC
+http://46.249.20.129:8080/udp/233.195.89.88:3000
 
-http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8
+#EXTINF:0,Universal Channel
+http://46.249.20.129:8080/udp/233.195.89.90:3000
 
-#EXTINF:-1,TSN 5 720 HD
-
-http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8
-
-#EXTINF:-1,TURK-A SPOR rtmp 720*510
-
-http://rtmp.turkuvazgroup.net/aspor/aspor3/player.m3u8
-
-#EXTINF:-1,TURK-BURSASPOR TV
-
-http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
-
-#EXTINF:-1,TURK-BURSASPOR TV 720*576
-rtmp://stream.yayindayiz.biz:80/Bursaspor/bursaspor
-#EXTINF:-1,TURKMEN SPORT
-rtmp://217.174.227.20/webtv/ch004_sd
-#EXTINF:-1,TURK-NTV SPOR m3u8 640*360
-
-http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
-
-#EXTINF:-1,TURK-NTV SPOR m3u8 640*360
-
-http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
-
-#EXTINF:-1,TURK-NTV SPOR m3u8 720*576 myvideo.az
-
-http://hls01-08.az.myvideo.az/hls-live/livepkgr/ntvspor/ntvspor/ntvspor.m3u8iptv.com=fb%2Fsimpletvipadresleri
-
-#EXTINF:-1,TURK-SPORTS TV m3u8 640*360
-
-http://origin.live.web.tv.streamprovider.net/streams/4be5c4a578575c5b4e15a61f2dbc01cf_live_0_0/index.m3u8
-
-#EXTINF:-1,TURK-Sports TV m3u8 720*576 myvideo.az
-
-http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport1/sport1/sport1.m3u8iptv.com=fb%2Fsimpletvipadresleri
-
-#EXTINF:-1,TURK-TRT SPOR m3u8 640*360
-
-http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
-
-#EXTINF:-1,TURK-TRT SPOR m3u8 720*576 myvideo.az
-
-http://hls01-08.az.myvideo.az/hls-live/livepkgr/trt3/trt3/trt3.m3u8iptv.com=fb%2Fsimpletvipadresleri
-
-#EXTINF:-1,tyson
-
-http://hls.cn.ru/streaming/futbol/tvrec/playlist.m3u8
-
-#EXTINF:-1,Ukraina:EuroSport
-
-http://178.165.0.101:4022/udp/239.0.0.211:1234
-
-#EXTINF:-1,Ukraina:EuroSport 2
-
-http://178.165.0.101:4022/udp/239.0.0.212:1234
-
-#EXTINF:-1,Ukraina:Eurosport News
-
-http://178.165.0.101:4022/udp/239.0.0.219:1234
-
-#EXTINF:-1,Ukraina:Extreme Sports
-
-http://178.165.0.101:4022/udp/239.0.0.209:1234
-
-#EXTINF:-1,Ukraina:Sport 1
-
-http://178.165.0.101:4022/udp/239.0.0.217:1234
-
-#EXTINF:-1,Ukraina:Viasat Sport
-
-http://178.165.0.101:4022/udp/239.0.0.216:1234
-
-#EXTINF:-1,Ukraina:XSport
-
-http://178.165.0.101:4022/udp/239.0.0.218:1234
-
-#EXTINF:-1,USA:SPORTES 5 HD
-
-http://www.xrxs.net/video/live-p12netw-4728.m3u8
-
-#EXTINF:-1,USA:SPORTES 6 HD
-
-http://xrxs.net/video/live-p12netw-4728.m3u8
-
-#EXTINF:-1,USA-PAC 12 Bay Area (HD)
-
-http://www.xrxs.net/video/live-p12baya-4728.m3u8
-
-#EXTINF:-1,USA-Pac 12 Bay Area 720 HD
-
-http://xrxs.net/video/live-p12baya-2328.m3u8
-
-#EXTINF:-1,USA-PAC 12 Oregon (HD)
-
-http://xrxs.net/video/live-p12oreg-4728.m3u8
-
-#EXTINF:-1,Viasat Golf (1)
-
-http://93.184.221.133/00573D/204/204-0.m3u8
-
-#EXTINF:-1,Viasat Golf (2)
-
-http://93.184.221.133/00573D/911/911-0.m3u8
-
-#EXTINF:-1,Viasat Sport
-
-http://93.184.221.133/00573D/1341/1341-0.m3u8
-
-#EXTINF:-1,3Sport
-
-http://93.184.221.133/00573D/837/837-0.m3u8
-
-#EXTINF:-1,3Sport 1
-
-http://93.184.221.133/00573D/236/236-0.m3u8
-
-#EXTINF:-1,ABC7 USA
-
-http://93.184.221.133/00573D/1086/1086-0.m3u8
-
-#EXTINF:-1,AD Sports 1 UAE
-
-http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport1hd/chunklist_b880000.m3u8
-
-#EXTINF:-1,ARABIC:Al Nahar Sport
-rtmp://50.7.180.18:1935/elnahar_tv/nahar_sport.stream
-#EXTINF:-1,ARABIC-Dubai Sports 3
-
-http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/playlist.m3u8
-
-#EXTINF:-1,ARABIC-SaudiSport
-
-http://intigral_live-lh.akamaihd.net/i/DPS2KCCAHLXSHB010514_1@135296/index_1200_av-p.m3u8
-
-#EXTINF:-1,ARENA SPORT
-
-http://118.97.167.19/jhos/arena//Playlist.m3u8
-
-#EXTINF:-1,Auto Moto TV Gaz
-mms://100automoto.tv/100gaz
-#EXTINF:-1,AZERBAYCAN-idman sports m3u8 myvideo.az
-
-http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8
-
-#EXTINF:-1,BBC Sport
-
-http://93.184.221.133/00573D/1104/1104-0.m3u8
-
-#EXTINF:-1,BRASIL-ESPN+
-rtmp://31.204.128.74/live/master27
-#EXTINF:-1,BRASIL-FOX SPORTS
-rtmp://31.204.153.72/live/fsb
-#EXTINF:-1,British Eurosport
-
-http://hack-sat.com/iptv
-
-http://93.184.221.133/00573D/1210/1210-0.m3u8
-
-#EXTINF:-1,British Eurosport 2
-
-http://93.184.221.133/00573D/1211/1211-0.m3u8
-
-#EXTINF:-1,CBS2 USA
-
-http://93.184.221.133/00573D/1084/1084-0.m3u8
-
-#EXTINF:-1,CNBC USA
-
-http://93.184.221.133/00573D/1085/1085-0.m3u8
-
-#EXTINF:-1,Czech:O Sport
-
-http://212.79.96.134:8014/
-
-#EXTINF:-1,ENG-MMA BAY TV
-rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3
-#EXTINF:-1,ESPN
-
-http://live.oneplay.tv/reproducir/405.m3u8
-
-#EXTINF:-1,ESPN 2
-
-http://live.oneplay.tv/reproducir/409.m3u8
-
-#EXTINF:-1,ESPN 3
-
-http://live.oneplay.tv/reproducir/393.m3u8
-
-#EXTINF:-1,ESPN 3 arg
-
-http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8
-
-#EXTINF:-1,ESPN HD
-
-http://live.oneplay.tv/reproducir/389.m3u8
-
-#EXTINF:-1,Eurosport 1 ENG
-
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-
-#EXTINF:-1,EUROSPORT 1 FR
-
-http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
-
-#EXTINF:-1,Eurosport 2 m3u8 720*576 myvideo.az
-
-http://hls01-04.az.myvideo.az/hls-live/livepkgr/eurosport2/eurosport2/eurosport2.m3u8iptv.com=fb%2Fsimpletvipadresleri
-
-#EXTINF:-1,Fox 11 USA
-
-http://93.184.221.133/00573D/1093/1093-0.m3u8
-
-#EXTINF:-1,FOX SPORT
-
-http://live.oneplay.tv/reproducir/397.m3u8
-
-#EXTINF:-1,Fox Sports ar
-
-http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8
-
-#EXTINF:-1,Fox Sports br
-rtmp://$OPT:rtmp-raw=rtmp://31.204.153.72/live/ playpath=fsb swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://www.cdnbr.biz/
-#EXTINF:-1,Fox Sports br
-rtmp://31.204.153.72/live//fsb
-#EXTINF:-1,FOX Sports m3u8 640*360
-
-http://187.247.255.139/Apple/FOXSPHD600.m3u8
-
-#EXTINF:-1,KAZSPORT
-
-http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG–KazSport/01/plst.m3u8
-
-#EXTINF:-1,Motorsport 7 Channel Australia
-
-http://motorsport.hopto.org:8080/
-
-#EXTINF:-1,Sky Sports News
-
-http://93.184.221.133/00573D/183/183-0.m3u8
-
-#EXTINF:-1,Spain:ESPN
-
-http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8
-
-#EXTINF:-1,Spain:ESPN HD
-
-http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8
-
-#EXTINF:-1,Spain:ESPN2
-
-http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8
-
-
-#EXTINF:-1,Spain:ESPN3
-
-http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8
-
-#EXTINF:-1,Spain:FOX SPORTS
-
-http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8
-
-#EXTINF:-1,Spain:FOX SPORTS 2
-
-http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8
-
-#EXTINF:-1,Spain-FOX SPORTS
-
-http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8
-
-#EXTINF:-1,Spain-FOX SPORTS 2
-
-http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8
-
+#EXTINF:0,E! Entertainment
+http://46.249.20.129:8080/udp/233.195.89.91:3000
