@@ -17,167 +17,302 @@ plugin://plugin.video.youtube/?action=play_video&videoid=umNACDTH-BY
 
 
 
-#EXTINF:-1,BT Sport 1 (Спорт)
-://056e9dca4b9ddaf2bb8d6ec2c30984ca373c5935
+#EXTINF:-1,BT Sports 1 HD+
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/237.ts
 
-#EXTINF:-1,Bein Sports 1 HD France (Спорт)
-acestream://6c722f241da7c10f6cfbaa6eaa10bfc6055a7241
-#EXTINF:-1,Bein Sports 2 HD France (Спорт)
-acestream://bb10c2e6b0b3c62aee3f3e58decc9a6ade3b2664
-#EXTINF:-1,C More Tennis (Спорт)
-acestream://5daefc1b65f6ffdbada94175742166a55f2d7f04
-#EXTINF:-1,Canal GolT es (Спорт)
-acestream://7d24be4d2325e90d4f209daaf37378bb3c3bb52a
-#EXTINF:-1,Canal+ Liga (Спорт)
-acestream://c3d48b4cd8e1460a39c57153f1df06154907dad1
-#EXTINF:-1,Canal+ Liga de Campeones ES (Спорт)
-acestream://98a6f814f9e5cbf68d8ad48466500e1bf0c67911
-#EXTINF:-1,Canal+ Toros es (Спорт)
-acestream://3bb0246987ede915b48a897a8bba6da90a2fcd84
-#EXTINF:-1,Canal+1 es (Спорт)
-acestream://9de6d098b1af54dd536b6ece4f538f0e12a23db4
-#EXTINF:-1,Eurosport (Спорт)
-acestream://d57bd51c3fe918eef93ddd36aa48a0ad698e2a71
-#EXTINF:-1,Eurosport 2 HD (Спорт)
-acestream://ac443710fd4a381a0f49286b0d36706260b00952
-#EXTINF:-1,Eurosport HD (Спорт)
-acestream://421f76a26b0d16b34e5e9ecc5bb0cfb61ccaad74
-#EXTINF:-1,Eurosport News (Спорт)
-acestream://1b4e15001868eefad227b238c37d7cb485eb0dd7
-#EXTINF:-1,Eurospоrt 2 (Спорт)
-acestream://31cf5bf3764865cc2ef5ae9d87ba37892fe2f3f6
-#EXTINF:-1,Eurospоrt 2 North-East HD (Спорт)
-acestream://8aa07a7bf45338d3bcfbca0f55779f6bf9bf5b52
-#EXTINF:-1,Extreme Sports (Спорт)
-acestream://4a7d82a433e436671850ccd5f5fc80fee1e750b5
-#EXTINF:-1,Fast and Fun Box HD (Спорт)
-acestream://39d3d55a0f4ffa22d7e1728a27f4887c66a0b565
-#EXTINF:-1,FastnFunbox HD (Спорт)
-acestream://36e8dec807125d10338382434247fe0ba27e68f3
-#EXTINF:-1,FightBox HD (Спорт)
-acestream://4abc39b9f56fe44adaabbf9064195001d4abe753
-#EXTINF:-1,HD Спорт (Спорт)
-acestream://b8ed4b9f9816dcb08dcd43b8fb35a1359fe50f3d
-#EXTINF:-1,Kazsport (Спорт)
-acestream://764a93fe5acf68e9e1caf7a03906b2a262ac84c7
-#EXTINF:-1,Motors TV (Спорт)
-acestream://88709aa2be217e430cbb36b11c83a760ea24275e
-#EXTINF:-1,Movistar F1 (Спорт)
-acestream://b3e388c9fae21994e275cdd3fe6a946f4a986f2c
-#EXTINF:-1,Movistar MotoGP (Спорт)
-acestream://029fd73c07b2028bc3b75f7b09cd271d809d2df7
-#EXTINF:-1,NBA HD (Спорт)
-acestream://68f561aaba7d4a9146e25c7af07db7c12c2d9ffb
-#EXTINF:-1,NBA TV (Спорт)
-acestream://92aa826fc0cc486827755c1cd7f2f9d86e5e926f
-#EXTINF:-1,Nova Sport BG (Спорт)
-acestream://4aa604c0a7a272011d0f7f46383893a30523754d
-#EXTINF:-1,Polsat Sport (Спорт)
-acestream://7e9d512a5d406ce5f6be2ccd5a605657398560fa
-#EXTINF:-1,Premier Sports (Спорт)
-acestream://596321d2ed8c57ac2c604359b1af9cc3c4b32426
-#EXTINF:-1,Setanta Sports + HD (Спорт)
-acestream://db2ac7ea8a661ee647bd53bcad3cd5c4adb21ebe
-#EXTINF:-1,Setanta Sports Eurasia HD (Спорт)
-acestream://0d22893df35f3a3c66371dbfe418aa97466897db
-#EXTINF:-1,Sky Sports 1 (Спорт)
-acestream://559e5d70ef94ffb4f86694f2def482bb009759a1
-#EXTINF:-1,Sky Sports 3 (Спорт)
-acestream://af824678202ec687837752c113f2deb5aba7d1be
-#EXTINF:-1,Sky Sports 4 (Спорт)
-acestream://c00abc084329cb59b42723ddc9ebd24550d09a81
-#EXTINF:-1,Sky Sports 5 (Спорт)
-acestream://41975a9489f4de37f1afa31e5bd20a589817cf22
-#EXTINF:-1,Sky Sports F1 (Спорт)
-acestream://a6192e7122c79a02346f674f7f9d964e713f8194
-#EXTINF:-1,Sport 1 Cz (Спорт)
-acestream://600d344f0d267eb55f7a5ed53ac11388e9333913
-#EXTINF:-1,Sport Klub 1 HD (Спорт)
-acestream://d17b1f152ae7437fb50fd4272569b62026af00e1
-#EXTINF:-1,Sport Klub 2 HD (Спорт)
-acestream://004d109ca3b32d761ada44d3888860b73e7a8c31
-#EXTINF:-1,Sportmania Es (Спорт)
-acestream://31e79ad6a45f09e8027e1e0592c85445071c6fbb
-#EXTINF:-1,Super Tennis HD (Спорт)
-acestream://2134b6eef1855623690b379e60cfecb6790294ad
-#EXTINF:-1,Teledeporte HD (Спорт)
-acestream://0b9fd2ff75fe160902118640002ef923c3a6c641
-#EXTINF:-1,Viasat Golf HD (Спорт)
-acestream://cf1b4bae7b10598d4124c87d4d8e6dc1499aa755
-#EXTINF:-1,Viasat Hockey (Спорт)
-acestream://9d398260a5161c07ff79676c7489dd85bd252c1a
-#EXTINF:-1,Viasat Motor (Спорт)
-acestream://2c3507f8a920f2a0a4d367c316dee88540160615
-#EXTINF:-1,Viasat Sport (Спорт)
-acestream://401c2615b8813c58cedb2aedbc34e7122885cec7
-#EXTINF:-1,Viasat Sport Baltic (Спорт)
-acestream://9f672aadcf2bd5ce78dd4b7705ae913f06d6b95c
-#EXTINF:-1,Viasat Sport HD (Спорт)
-acestream://771d78c3d6d3f4b150c9f99e7e6c2a4a9e272acc
-#EXTINF:-1,Viasat Sport Sverige (Спорт)
-acestream://42bb47d5963900ca645c367036f87888700c56f8
-#EXTINF:-1,Viasat TV3 Sport 1 (Спорт)
-acestream://c35dafc91da50ede14952b63c5d904861af33d11
-#EXTINF:-1,Viasat TV3 Sport 2 DN (Спорт)
-acestream://f19c7697775b856ec130b52d586a369460ef97d5
-#EXTINF:-1,beIN SPORT 1 HD France (Спорт)
-acestream://acc164229f3405da2936bddc8a5f0add86e8d24a
-#EXTINF:-1,beIN SPORT 1 HD arabia (Спорт)
-acestream://c6af5e706ecf9c1802f19920809a8f544e63789c
-#EXTINF:-1,beIN SPORT 2 HD arabia (Спорт)
-acestream://0e5b1be0a04616a304578334398565c511333862
-#EXTINF:-1,nSport + (Спорт)
-acestream://92ce15eba6eb499a8aabc81c8f1442581f0b5eec
-#EXTINF:-1,Бокс тв (Спорт)
-acestream://3a5d66d5a758d48359620d3ea9f6a9be23846772
-#EXTINF:-1,КХЛ HD (Спорт)
-acestream://02cceed3520882ac45461680f093377d4a96b9d0
-#EXTINF:-1,КХЛ ТВ (Спорт)
-acestream://7426cbc47ee70e1b9a55a8ffb3f0fc412f886a8c
-#EXTINF:-1,НТВ+ Баскетбол (Спорт)
-acestream://4f4195689ae8c42634e36c278e8403582f0e98e3
-#EXTINF:-1,НТВ+ Наш футбол (Спорт)
-acestream://3a8f6222cc602ece17270c1d3f1c5f4ade94a84d
-#EXTINF:-1,НТВ+ Наш футбол HD (Спорт)
-acestream://fe0571d68fa4bbfbbd8eaa40c9b87765b0058c51
-#EXTINF:-1,НТВ+ Наш футбол HD (Спорт)
-acestream://267a92dcfbb4cd94e8d3a7a5cb8cdc2d678014fb
-#EXTINF:-1,НТВ+ Спорт (Спорт)
-acestream://2c234bf9d12000a2d18d9069ef85f5d537f8df1c
-#EXTINF:-1,НТВ+ Спорт плјус (Спорт)
-acestream://97e1b7f239270b108c51ec859284dd36f2a2efd1
-#EXTINF:-1,НТВ+ Теннис (Спорт)
-acestream://c5f75399f59bf3dfe6c445c514b37066622b4bc9
-#EXTINF:-1,НТВ+ Футбол 1 (Спорт)
-acestream://3290ea4c0ee0be66641d5e585b4dbc87ac6180ad
-#EXTINF:-1,НТВ+ Футбол 1 HD (Спорт)
-acestream://622fe6edbc04ead14d8dd6f93251fb97463ed93a
-#EXTINF:-1,НТВ+ Футбол 2 (Спорт)
-acestream://2b0c99d39c4b901ea5022850ea1312fcdaa39b60
-#EXTINF:-1,НТВ+ Футбол 2 HD (Спорт)
-acestream://5cc0e46182ba2d73e2b1f73bf373c1eaa7a6621d
-#EXTINF:-1,НТВ+ Футбол 3 (Спорт)
-acestream://bb40ba14ac231e0efe66f40247e8c8c55176a14c
-#EXTINF:-1,НТВ+ Футбол 3 HD (Спорт)
-acestream://955e501280318324a4a5400460d49b2bfa1f6eb4
-#EXTINF:-1,Россија 2 (Спорт)
-acestream://8881b74177444d5f780da9c3666c8227bd04cbe1
-#EXTINF:-1,Спорт (Спорт)
-acestream://b7675d00d880cb0f8031cba3df61a63e9ac9dd87
-#EXTINF:-1,Спорт 1 (Спорт)
-acestream://d09162fb1bbe92fff2e7b989a33d8c1e41e50a4c
-#EXTINF:-1,Спорт 1 (Украина) (Спорт)
-acestream://bd63ae96b3115283cf43cbcbfea13b91effbc674
-#EXTINF:-1,Спорт 1 HD (Спорт)
-acestream://716f76329032960f23330b99e041cbfeb4625006
-#EXTINF:-1,Спорт 2 (Украина) (Спорт)
-acestream://716f76329032960f23330b99e041cbfeb4625006
-#EXTINF:-1,Футбол (Спорт)
-acestream://159fc5a391cf2ba41030fb6bfeeffc44f7e7c181
-#EXTINF:-1,Футбол 1 (Украина) (Спорт)
-acestream://8618572fe4983e2d667fb7b07a1687ec6092559a
-#EXTINF:-1,Футбол 1 HD (Украина) (Спорт)
-acestream://7953dbdb5c63c24778239d7412a1ebb4c68630d5
-#EXTINF:-1,Футбол 2 (Украина) (Спорт)
-acestream://015919b7a4a5497b85fab048ebccbaaebeb81fe1
-#EXTINF:-1,Футбол 2 HD (Украина) (Спорт)
+ #EXTINF:-1,BT Sports 2 HD+
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/238.ts
+ #EXTINF:-1,Sky Sport 1 HD Deutch Germany
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/88.ts
+ #EXTINF:-1,Sky Sport 2 HD Deutch Germany
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/89.ts
+ #EXTINF:-1,Sky Bundesliga HD1
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/38.ts
+ #EXTINF:-1,Sky Bundesliga HD2
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/39.ts
+ #EXTINF:-1,Sky Bundesliga HD3
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/40.ts
+ #EXTINF:-1,Sky Bundesliga HD4
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/41.ts
+ #EXTINF:-1,Sky Bundesliga HD5
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/42.ts
+ #EXTINF:-1,SkySports 1 HD+
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/230.ts
+ #EXTINF:-1,SkySports 2 HD+
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/231.ts
+ #EXTINF:-1,SkySports 3 HD+
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/232.ts
+ #EXTINF:-1,SkySports 4 HD+
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/233.ts
+ #EXTINF:-1,SkySports 5 HD+
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/234.ts
+ #EXTINF:-1,SkySports F1 HD+
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/235.ts
+ #EXTINF:-1,SkySports News HD+
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/236.ts
+ #EXTINF:-1,Bt Sports 1
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/10.ts
+ #EXTINF:-1,Bt Sports 2
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/11.ts
+ #EXTINF:-1,SkySports 1
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/1.ts
+ #EXTINF:-1,SkySports 2
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/2.ts
+ #EXTINF:-1,SkySports 3
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/3.ts
+ #EXTINF:-1,SkySports 4
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/4.ts
+ #EXTINF:-1,SkySports 5
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/5.ts
+ #EXTINF:-1,SkySports F1
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/6.ts
+ #EXTINF:-1,SkySports News
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/7.ts
+ #EXTINF:-1,Bt Sports 1 (Backup)
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/147.ts
+ #EXTINF:-1,Bt Sports 2 (Backup)
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/148.ts
+ #EXTINF:-1,SkySports 1 (Backup)
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/140.ts
+ #EXTINF:-1,SkySports 2 (Backup)
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/141.ts
+ #EXTINF:-1,SkySports 3 (Backup)
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/142.ts
+ #EXTINF:-1,SkySports 4 (Backup)
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/143.ts
+ #EXTINF:-1,SkySports 5 (Backup)
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/144.ts
+ #EXTINF:-1,SkySports F1 (Backup)
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/145.ts
+ #EXTINF:-1,SkySports News (Backup)
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/146.ts
+ #EXTINF:-1,Btn
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/139.ts
+ #EXTINF:-1,TSN 1
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/34.ts
+ #EXTINF:-1,TSN 2
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/35.ts
+ #EXTINF:-1,TSN 3
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/135.ts
+ #EXTINF:-1,TSN 4
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/136.ts
+ #EXTINF:-1,TSN 5
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/137.ts
+ #EXTINF:-1,Setanta Ireland
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/8.ts
+ #EXTINF:-1,Canal +
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/97.ts
+ #EXTINF:-1,NBC Sports
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/37.ts
+ #EXTINF:-1,SportsNet World
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/76.ts
+ #EXTINF:-1,SportsNet Ontario
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/77.ts
+ #EXTINF:-1,SportsNet One
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/75.ts
+ #EXTINF:-1,Premier Sports
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/9.ts
+ #EXTINF:-1,Premier Sports (Backup)
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/149.ts
+ #EXTINF:-1,MUTV
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/343.ts
+ #EXTINF:-1,Motors TV UK
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/366.ts
+ #EXTINF:-1,Eurosport 1
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/12.ts
+ #EXTINF:-1,Eurosport 2
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/13.ts
+ #EXTINF:-1,Racing UK HD
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/239.ts
+ #EXTINF:-1,Racing UK
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/53.ts
+ #EXTINF:-1,Boxnation HD
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/240.ts
+ #EXTINF:-1,Box Nation
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/15.ts
+ #EXTINF:-1,ESPN UK HD
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/241.ts
+ #EXTINF:-1,ESPN UK
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/14.ts
+ #EXTINF:-1,ESPN USA
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/48.ts
+ #EXTINF:-1,ESPN 2 USA
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/49.ts
+ #EXTINF:-1,Fox Sports 1 USA
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/59.ts
+ #EXTINF:-1,Fox Sports 2 USA
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/60.ts
+ #EXTINF:-1,At The Races
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/52.ts
+ #EXTINF:-1,Pac 12 Network
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/138.ts
+ #EXTINF:-1,NFL Network
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/58.ts
+ #EXTINF:-1,Willow Tv (Cricket)
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/33.ts
+ #EXTINF:-1,Star Sports 1
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/253.ts
+ #EXTINF:-1,Star Sports 2
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/254.ts
+ #EXTINF:-1,Star Sports 4
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/255.ts
+ #EXTINF:-1,Ten Sports
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/258.ts
+ #EXTINF:-1,Ten Action
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/257.ts
+ #EXTINF:-1,Bein Sports 11HD 720P (Works During Matches only)
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/131.ts
+ #EXTINF:-1,Bein Sports USA
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/95.ts
+ #EXTINF:-1,Bein Sports 1 FR
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/31.ts
+ #EXTINF:-1,Bein Sports 2 FR
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/36.ts
+ #EXTINF:-1,Bein Sports 3 FR
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/32.ts
+ #EXTINF:-1,Bein Max 4
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/93.ts
+ #EXTINF:-1,Bein Max 5
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/94.ts
+ #EXTINF:-1,Bein Sports 1 HD
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/16.ts
+ #EXTINF:-1,Bein Sports 2 HD
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/17.ts
+ #EXTINF:-1,Bein Sports 3 HD
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/18.ts
+ #EXTINF:-1,Bein Sports 4 HD
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/19.ts
+ #EXTINF:-1,Bein Sports 5 HD
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/20.ts
+ #EXTINF:-1,Bein Sports 6 HD
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/21.ts
+ #EXTINF:-1,Bein Sports 7 HD
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/22.ts
+ #EXTINF:-1,Bein Sports 8 HD
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/23.ts
+ #EXTINF:-1,Bein Sports 9 HD
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/24.ts
+ #EXTINF:-1,Bein Sports 10 HD
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/25.ts
+ #EXTINF:-1,Bein Sports 11 HD
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/247.ts
+ #EXTINF:-1,Bein Sports 12 HD
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/248.ts
+ #EXTINF:-1,Bein Sports 1 LQ Backup
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/114.ts
+ #EXTINF:-1,Bein Sports 2 LQ Backup
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/115.ts
+ #EXTINF:-1,Bein Sports 3 LQ Backup
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/116.ts
+ #EXTINF:-1,Bein Sports 4 LQ Backup
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/117.ts
+ #EXTINF:-1,Bein Sports 5 LQ Backup
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/118.ts
+ #EXTINF:-1,Bein Sports 6 LQ Backup
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/119.ts
+ #EXTINF:-1,Bein Sports 7 LQ Backup
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/120.ts
+ #EXTINF:-1,Bein Sports 8 LQ Backup
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/121.ts
+ #EXTINF:-1,Bein Sports 9 LQ Backup
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/122.ts
+ #EXTINF:-1,Bein Sports 10 LQ Backup
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/123.ts
+ #EXTINF:-1,Bein Sports 11 LQ Backup
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/124.ts
+ #EXTINF:-1,Bein Sports 12 LQ Backup
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/125.ts
+ #EXTINF:-1,NTV Football 1
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/190.ts
+ #EXTINF:-1,NTV Football 2
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/191.ts
+ #EXTINF:-1,NTV Football 3
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/192.ts
+ #EXTINF:-1,Canal + Sport
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/96.ts
+ #EXTINF:-1,Canal+ Deportes
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/43.ts
+ #EXTINF:-1,Canal+ Liga
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/45.ts
+ #EXTINF:-1,Canal+ Liga Campeones 1
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/46.ts
+ #EXTINF:-1,Arena Sports 1 SD Croatian
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/54.ts
+ #EXTINF:-1,Arena Sports 2 SD Croatian
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/55.ts
+ #EXTINF:-1,Arena Sports 3 SD Croatian
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/56.ts
+ #EXTINF:-1,Arena Sports 4 SD Croatian
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/57.ts
+ #EXTINF:-1,Arena Sports 1 Serbia
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/81.ts
+ #EXTINF:-1,Arena Sports 2 Serbia
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/82.ts
+ #EXTINF:-1,Arena Sports 3 Serbia
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/83.ts
+ #EXTINF:-1,Arena Sports 4 Serbia
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/84.ts
+ #EXTINF:-1,Sport Klub 1 HD
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/71.ts
+ #EXTINF:-1,Sport Klub 2 HD
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/72.ts
+ #EXTINF:-1,Sport Klub 3 HD
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/73.ts
+ #EXTINF:-1,Super Sport 1 HD
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/66.ts
+ #EXTINF:-1,Super Sport 2 HD
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/67.ts
+ #EXTINF:-1,Super Sport 3 HD
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/68.ts
+ #EXTINF:-1,Sky Sport 1 HD Italy
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/50.ts
+ #EXTINF:-1,Sky Sport 2 HD Italy
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/51.ts
+ #EXTINF:-1,Sky Moto GP Italy
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/62.ts
+ #EXTINF:-1,Sky Sport F1 HD Italy
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/63.ts
+ #EXTINF:-1,Sky Sport 24 HD Italy
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/242.ts
+ #EXTINF:-1,SKY Discovery UK
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/364.ts
+ #EXTINF:-1,SKY Discovery Science UK
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/362.ts
+ #EXTINF:-1,SKY Discovery History UK
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/363.ts
+ #EXTINF:-1,Sky Movie (Action&Adventure)
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/110.ts
+ #EXTINF:-1,Sky Movie (Select)
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/64.ts
+ #EXTINF:-1,Sky Movie (SciFi&Horror)
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/112.ts
+ #EXTINF:-1,Sky Movie (Premiere)
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/111.ts
+ #EXTINF:-1,Sky Movie (Modern Greats)
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/109.ts
+ #EXTINF:-1,Sky Movie (Family)
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/65.ts
+ #EXTINF:-1,Sky Movie (Drama)
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/107.ts
+ #EXTINF:-1,Sky Movie (Crime&Thriller)
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/113.ts
+ #EXTINF:-1,Sky Movie (Comedy)
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/108.ts
+ #EXTINF:-1,Sky Atlantic
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/98.ts
+ #EXTINF:-1,Sky Living
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/184.ts
+ #EXTINF:-1,Sky One
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/182.ts
+ #EXTINF:-1,Sky Two
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/183.ts
+ #EXTINF:-1,Sky Arts 1
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/180.ts
+ #EXTINF:-1,Sky Arts 2
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/181.ts
+ #EXTINF:-1,Good Food
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/315.ts
+ #EXTINF:-1,FOX HD
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/319.ts
+ #EXTINF:-1,Food Network East
+ http://iptv.wssiptv.com:80/live/LLuca/TEST14.05.15/320.ts
