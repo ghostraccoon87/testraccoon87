@@ -123,4 +123,7 @@ rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce301000
 
 #EXTINF:-1,***RACCOONStreams***SPORTS_INT_SPORTS***
 
-#EXTINF:0, SKY SPORTS 4 (Spo.)rtmp://$OPT:rtmp-raw=rtmp://85.12.5.6/vl/_definst_ playpath=mRgPX2xVQicKtks swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/embed.php?v=mRgPX2xVQicKtks&vw=640&vh=360
+#EXTINF:-1, Sky Sports 1
+rtmp://$OPT:rtmp-raw=rtmp://46.246.29.135:1935/stream/ playpath=WWv4pD0kYn.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/
+#EXTINF:-1, Sky Sports 5
+rtmp://$OPT:rtmp-raw=rtmp://46.246.29.135:1935/stream/ playpath=00npFnXMLx.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/
