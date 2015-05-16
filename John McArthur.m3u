@@ -123,41 +123,118 @@ rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce301000
 
 #EXTINF:-1,***RACCOONStreams***SPORTS_INT_SPORTS***
 
-‪#‎EXTINF‬:0,Bein 1
-http://188.227.189.18:8082/TV4016
-
-
-
-
-
-#EXTINF:0,Bein 1
-http://188.227.189.18:8082/TV4001#EXTINF:0,Bein 2
-http://188.227.189.18:8082/TV4002
-#EXTINF:0,Bein 2
-http://188.227.189.18:8082/TV4017
-#EXTINF:0,Bein 3
-http://188.227.189.18:8082/TV4003
-#EXTINF:0,Bein 4
-http://188.227.189.18:8082/TV4004
-#EXTINF:0,Bein 5
-http://188.227.189.18:8082/TV4005
-#EXTINF:0,Bein 6
-http://188.227.189.18:8082/TV4009
-#EXTINF:0,Bein 7
-http://188.227.189.18:8082/TV4007
-#EXTINF:0,Bein 8
-http://188.227.189.18:8082/TV4008
-#EXTINF:0,Bein 9
-http://188.227.189.18:8082/TV4009
-#EXTINF:0,Bein 10
-http://188.227.189.18:8082/TV4010
-#EXTINF:0,Bein 11
-http://188.227.189.18:8082/TV4011
-#EXTINF:0,Bein 12
-http://188.227.189.18:8082/TV4012
-#EXTINF:0,Bein 13
-http://188.227.189.18:8082/TV4013
-#EXTINF:0,Bein 14
-http://188.227.189.18:8082/TV4014
-#EXTINF:0,Bein 15
-http://188.227.189.18:8082/TV4015
+‪‪#‎EXTINF‬:-1,BEINSPORTS1HD
+http://2co1.vp9.tv/chn/bin01/
+v.m3u8
+#EXTINF:-1,BEINSPORTS2HD
+http://2co1.vp9.tv/chn/bin02/
+v.m3u8
+#EXTINF:-1,BEINSPORTS4HD
+http://2co1.vp9.tv/chn/bin04/
+v.m3u8
+#EXTINF:-1,Eurosport
+http://185.38.12.20:8088/eurosport/
+#EXTINF:-1,Eurosport2
+http://185.38.12.20:8088/
+eurosport2/
+#EXTINF:-1,BritishEurosport
+http://93.184.221.133/00573D/1210/
+1210-0.m3u8
+#EXTINF:-1,BritishEurosport2
+http://93.184.221.133/00573D/1211/
+1211-0.m3u8
+#EXTINF:-1,ESPN
+http://200.76.77.237/LIVE/H01/
+CANAL558/PROFILE03.m3u8 ?
+#EXTINF:-1,Spain:ESPN
+http://200.76.77.237/LIVE/H01/
+CANAL558/PROFILE03.m3u8
+#EXTINF:-1,Spain:ESPNHD
+http://200.76.77.237/LIVE/H01/
+CANAL516/PROFILE03.m3u8
+#EXTINF:-1,Spain:ESPN2
+http://200.76.77.237/LIVE/H01/
+CANAL561/PROFILE03.m3u8
+#EXTINF:-1,Spain:ESPN3
+http://200.76.77.237/LIVE/H01/
+CANAL520/PROFILE03.m3u8
+#EXTINF:-1,FOXSports
+http://200.76.77.237/LIVE/H01/
+CANAL522/PROFILE03.m3u8 ?
+#EXTINF:-1,FOXSports2
+http://200.76.77.237/LIVE/H01/
+CANAL527/PROFILE03.m3u8 ?
+#EXTINF:-1,FoxSports1
+http://200.76.77.237/LIVE/H01/
+CANAL522/PROFILE03.m3u8 ?
+#EXTINF:-1,FoxSports2
+http://103.242.13.66:5000/nn_
+live.ts?id=starsport-m-h
+#EXTINF:-1,SportTime1,
+rtmp://streamer.a1.net:1935/
+rtmplive/redundant/channels/
+Sporttime/SporttimeTV/
+mp4:channel1_800
+#EXTINF:-1,SportTime2,
+rtmp://streamer.a1.net:1935/
+rtmplive/redundant/channels/
+Sporttime/SporttimeTV/
+mp4:channel2_800
+#EXTINF:-1,SportTime3,
+rtmp://streamer.a1.net:1935/
+rtmplive/redundant/channels/
+Sporttime/SporttimeTV/
+mp4:channel3_1200
+#EXTINF:-1,SportTime4,
+rtmp://streamer.a1.net:1935/
+rtmplive/redundant/channels/
+Sporttime/SporttimeTV/
+mp4:channel4_1200
+#EXTINF:-1,SportTime5,
+rtmp://streamer.a1.net:1935/
+rtmplive/redundant/channels/
+Sporttime/SporttimeTV/
+mp4:channel5_1200
+#EXTINF:-1,SportTime6,
+rtmp://streamer.a1.net:1935/
+rtmplive/redundant/channels/
+Sporttime/SporttimeTV/
+mp4:channel6_800
+#EXTINF:-1,SportTime7,
+rtmp://streamer.a1.net:1935/
+rtmplive/redundant/channels/
+Sporttime/SporttimeTV/
+mp4:channel7_1200
+#EXTINF:-1,SportsNightHD
+rtmp://freeview.fms.visionip.tv/live/
+sports_tonight-sports_tonight-l
+ive-25f-16x9-HD
+#EXTINF:-1,BEINSPORTS1HD
+http://2co1.vp9.tv/chn/bin01/
+v.m3u8
+#EXTINF:-1,BEINSPORTS2HD
+http://2co1.vp9.tv/chn/bin02/
+v.m3u8
+#EXTINF:-1,BEINSPORTS4HD
+http://2co1.vp9.tv/chn/bin04/
+v.m3u8
+#EXTINF:-1,BBCSport
+http://93.184.221.133/00573D/1104/
+1104-0.m3u8
+#EXTINF:-1,ViasatSport
+http://93.184.221.133/00573D/1341/
+1341-0.m3u8
+#EXTINF:-1,3Sport1
+http://93.184.221.133/00573D/236/
+236-0.m3u8
+#EXTINF:-1,3Sport
+http://93.184.221.133/00573D/837/
+837-0.m3u8
+#EXTINF:-1,Arenasport1
+http://62.112.54.4/hls/arena1.m3u8
+#EXTINF:-1,Arenasport2
+http://62.112.54.4/hls/arena2.m3u8
+#EXTINF:-1,SkySportsNews
+http://93.184.221.133/00573D/183/
+183-0.m3u8
+John Mcarthur
