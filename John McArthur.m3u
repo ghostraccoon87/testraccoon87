@@ -123,27 +123,41 @@ rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce301000
 
 #EXTINF:-1,***RACCOONStreams***SPORTS_INT_SPORTS***
 
-‪#‎EXTINF‬:0,SPORT TV 1
-http://mydreambox.blogd
-ns.com:6262/live/1/2/12.ts
-#EXTINF:0,SPORT TV 2
-http://mydreambox.blogd
-ns.com:6262/live/1/2/13.ts
-#EXTINF:0,SPORT TV 3
-http://mydreambox.blogd
-ns.com:6262/live/1/2/14.ts
-#EXTINF:0,SPORT TV 4
-http://mydreambox.blogd
-ns.com:6262/live/1/2/15.ts
-#EXTINF:0,SPORT TV 5
-http://mydreambox.blogd
-ns.com:6262/live/1/2/16.ts
-#EXTINF:0,BENFICA TV 1
-http://mydreambox.blogd
-ns.com:6262/live/1/2/17.ts
-#EXTINF:0,BENFICA TV 2
-http://mydreambox.blogd
-ns.com:6262/live/1/2/18.ts
-#EXTINF:0,SPORTING
-http://mydreambox.blogd
-ns.com:6262/live/1/2/19.ts
+‪#‎EXTINF‬:0,Bein 1
+http://188.227.189.18:8082/TV4016
+
+
+
+
+
+#EXTINF:0,Bein 1
+http://188.227.189.18:8082/TV4001#EXTINF:0,Bein 2
+http://188.227.189.18:8082/TV4002
+#EXTINF:0,Bein 2
+http://188.227.189.18:8082/TV4017
+#EXTINF:0,Bein 3
+http://188.227.189.18:8082/TV4003
+#EXTINF:0,Bein 4
+http://188.227.189.18:8082/TV4004
+#EXTINF:0,Bein 5
+http://188.227.189.18:8082/TV4005
+#EXTINF:0,Bein 6
+http://188.227.189.18:8082/TV4009
+#EXTINF:0,Bein 7
+http://188.227.189.18:8082/TV4007
+#EXTINF:0,Bein 8
+http://188.227.189.18:8082/TV4008
+#EXTINF:0,Bein 9
+http://188.227.189.18:8082/TV4009
+#EXTINF:0,Bein 10
+http://188.227.189.18:8082/TV4010
+#EXTINF:0,Bein 11
+http://188.227.189.18:8082/TV4011
+#EXTINF:0,Bein 12
+http://188.227.189.18:8082/TV4012
+#EXTINF:0,Bein 13
+http://188.227.189.18:8082/TV4013
+#EXTINF:0,Bein 14
+http://188.227.189.18:8082/TV4014
+#EXTINF:0,Bein 15
+http://188.227.189.18:8082/TV4015
