@@ -959,3 +959,33 @@ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultraf
 #EXTINF:0,5 USA
 http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=25
 
+
+#EXTINF:-1, [COLOR red]F[/COLOR][COLOR white]O[/COLOR][COLOR blue]X[/COLOR]
+
+#‎EXTINF:-1 Fox 1 (US)
+
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
+
+#EXTINF:-1 ,FOX MOVIES HD (US)
+
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+
+#EXTINF:-1 ,Fox Action (US)
+
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
+
+#EXTINF:-1 ,FOX CINEMA (US)
+
+http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?
+
+#EXTINF:-1 ,FOX MOVIES HD (US)
+
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+
+#EXTINF:-1 ,Fox Family (US)
+
+http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
+
+#EXTINF:-1 ,FOX CLASSICS (US)
+
+http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?
