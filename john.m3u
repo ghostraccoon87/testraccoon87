@@ -14,6 +14,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=QRBUO4cU5MM
 #EXTINF:-1, [COLOR blue][I][B]Mark Hunter click here [/B][/I][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=umNACDTH-BY
 
+#EXTINF:-1, [COLOR red][I][B]Stewart Phillips CLICK ME[/B][/I][/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=v=7XurX61--nA
+
 #EXTINF:-1, [COLOR orange][I][B]install team viewer quick support from your google playstore and I can help you without having to callout CLICK FOR VIDEO [/B][/I][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=X3l5HfYO0pY
 
