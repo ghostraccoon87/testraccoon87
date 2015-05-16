@@ -123,46 +123,27 @@ rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce301000
 
 #EXTINF:-1,***RACCOONStreams***SPORTS_INT_SPORTS***
 
-#EXTINF:-1, Digi Sport 2
-
-http://91.211.51.155:5555/udp/224.20.20.240:1234
-
-#EXTINF:-1, Digi Sport 3
-
-http://91.211.51.155:5555/udp/224.20.20.239:1234
-
-#EXTINF:-1, Dolce Sport HD
-
-http://91.211.51.155:5555/udp/224.20.20.226:1234
-
-#EXTINF:-1, Dolce Sport 4
-
-http://91.211.51.155:5555/udp/224.20.20.227:1234
-
-#EXTINF:-1, Dolce Sport
-
-http://91.211.51.155:5555/udp/224.20.20.229:1234
-
-#EXTINF:-1, Dolce Sport 3
-
-http://91.211.51.155:5555/udp/224.20.20.228:1234
-
-#EXTINF:-1, Dolce Sport 2
-
-http://91.211.51.155:5555/udp/224.20.20.242:1234
-
-#EXTINF:-1, Sport.ro HD
-
-http://91.211.51.155:5555/udp/224.20.20.248:1234
-
-#EXTINF:-1, NTV Fudbal 1
-
-http://91.211.51.155:5555/udp/224.21.21.243:1234
-
-#EXTINF:-1, MTV Fudbal 2
-
-http://91.211.51.155:5555/udp/224.21.21.244:1234
-
-#EXTINF:-1, NTV Fudbal 3
-
-http://91.211.51.155:5555/udp/224.21.21.155:1234
+‪#‎EXTINF‬:0,SPORT TV 1
+http://mydreambox.blogd
+ns.com:6262/live/1/2/12.ts
+#EXTINF:0,SPORT TV 2
+http://mydreambox.blogd
+ns.com:6262/live/1/2/13.ts
+#EXTINF:0,SPORT TV 3
+http://mydreambox.blogd
+ns.com:6262/live/1/2/14.ts
+#EXTINF:0,SPORT TV 4
+http://mydreambox.blogd
+ns.com:6262/live/1/2/15.ts
+#EXTINF:0,SPORT TV 5
+http://mydreambox.blogd
+ns.com:6262/live/1/2/16.ts
+#EXTINF:0,BENFICA TV 1
+http://mydreambox.blogd
+ns.com:6262/live/1/2/17.ts
+#EXTINF:0,BENFICA TV 2
+http://mydreambox.blogd
+ns.com:6262/live/1/2/18.ts
+#EXTINF:0,SPORTING
+http://mydreambox.blogd
+ns.com:6262/live/1/2/19.ts
