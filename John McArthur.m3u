@@ -123,38 +123,46 @@ rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce301000
 
 #EXTINF:-1,***RACCOONStreams***SPORTS_INT_SPORTS***
 
-#EXTINF:-1,ARENA
+#EXTINF:-1, Digi Sport 2
 
-http://118.97.167.19/jhos/arena//Playlist.m3u8
+http://91.211.51.155:5555/udp/224.20.20.240:1234
 
-#EXTINF:-1,Arena Sport 1 sr
+#EXTINF:-1, Digi Sport 3
 
-http://89.212.240.49:11980/live/smil:365_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
+http://91.211.51.155:5555/udp/224.20.20.239:1234
 
-#EXTINF:-1,Arena Sport 3 sr
+#EXTINF:-1, Dolce Sport HD
 
-http://89.212.240.49:11980/live/smil:367_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
+http://91.211.51.155:5555/udp/224.20.20.226:1234
 
-#EXTINF:-1,Arenasport 1
+#EXTINF:-1, Dolce Sport 4
 
-http://sipragezabava.com/live/arena1
+http://91.211.51.155:5555/udp/224.20.20.227:1234
 
-#EXTINF:-1,Arenasport 1 HD
+#EXTINF:-1, Dolce Sport
 
-http://89.212.240.49:11980/live/smil:365_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
+http://91.211.51.155:5555/udp/224.20.20.229:1234
 
-#EXTINF:-1,Arenasport 2
+#EXTINF:-1, Dolce Sport 3
 
-http://sipragezabava.com/live/arena2
+http://91.211.51.155:5555/udp/224.20.20.228:1234
 
-#EXTINF:-1,Arenasport 2 HD
+#EXTINF:-1, Dolce Sport 2
 
-http://89.212.240.49:11980/live/smil:366_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
+http://91.211.51.155:5555/udp/224.20.20.242:1234
 
-#EXTINF:-1,Arenasport 3
+#EXTINF:-1, Sport.ro HD
 
-http://sipragezabava.com/live/arena3
+http://91.211.51.155:5555/udp/224.20.20.248:1234
 
-#EXTINF:-1,Arenasport 3 HD
+#EXTINF:-1, NTV Fudbal 1
 
-http://89.212.240.49:11980/live/smil:367_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
+http://91.211.51.155:5555/udp/224.21.21.243:1234
+
+#EXTINF:-1, MTV Fudbal 2
+
+http://91.211.51.155:5555/udp/224.21.21.244:1234
+
+#EXTINF:-1, NTV Fudbal 3
+
+http://91.211.51.155:5555/udp/224.21.21.155:1234
