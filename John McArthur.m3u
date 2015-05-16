@@ -122,5 +122,4 @@ rtmp://fs-b3e3010000000000.id.cdn.cv.net/vxedge/fs-b3e3010000000000/fs-b3e301000
 rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce3010000000000
 
 #EXTINF:-1,***RACCOONStreams***SPORTS_INT_SPORTS***
-#EXTINF:-1,Racing uk
-http://www.stream2watch.com/live-tv/gb/at-the-races-live-stream
+#EXTINF:0, SKY SPORTS 4 (Spo.)rtmp://$OPT:rtmp-raw=rtmp://85.12.5.6/vl/_definst_ playpath=mRgPX2xVQicKtks swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/embed.php?v=mRgPX2xVQicKtks&vw=640&vh=360
