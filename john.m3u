@@ -1423,6 +1423,7 @@ http://46.61.226.18/hls/CH_C03_VIASATNATUREHISTORYHD/bw3000000/variant.m3u8?vers
 #EXTINF: 0,Viasat Sport HD 1080P (Russian)
 http://46.61.226.18/hls/CH_C06_VIASATSPORTHD/bw3000000/variant.m3u8?version=2
 
+#EXTINF:-1,[COLOR purple]***ALLOW TIME TO LOAD***SPORTS***[/COLOR]
 #EXTINF:-1,Bein Sport 1
 http://iptvbein.ddns.net:89/testa/Skype:iptv.bein/150.ch
 
