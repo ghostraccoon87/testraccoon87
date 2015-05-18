@@ -1,6 +1,88 @@
 #EXTM3U
 
+#EXTINF:-1 group-title=” 19.00 ita FIORENTINA – PARMA “,[COLOR green]19.00 ita FIORENTINA – PARMA[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 19.00 ita FIORENTINA – PARMA “,ntv+futbol 3 ru
+http://edge.ailetv.net/org2/football3_me/playlist.m3u8
+#EXTINF:-1 group-title=” 19.00 ita FIORENTINA – PARMA “,ntv+futbol 3 ru
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_FUTBALL3SD/variant.m3u8?version=2
+#EXTINF:-1 group-title=” 19.00 ita FIORENTINA – PARMA “,bt sport 2 uk
+http://195.154.227.38:1935/live/btsports2lsh/playlist.m3u8
+#EXTINF:-1 group-title=” 19.00 ita FIORENTINA – PARMA “,futboll 1 HD ukr
+http://zhegal.com.ua/tv/mariupol?id=63
+#EXTINF:-1 group-title=” 19.00 ita FIORENTINA – PARMA “,sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=” 19.00 ita FIORENTINA – PARMA “,supersport 3 al
+http://81.7.13.162/hls/ss3/index.m3u8
+#EXTINF:-1 group-title=” 19.00 ita FIORENTINA – PARMA “,fox sport 2 arg
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8
 
+#EXTINF:-1 group-title=” 20.15 den SONDERJYSKE – RANDERS “,[COLOR green]20.15 den SONDERJYSKE – RANDERS[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 20.15 den SONDERJYSKE – RANDERS “,tv3 sport 1 ace
+acestream://c35dafc91da50ede14952b63c5d904861af33d11
+
+#EXTINF:-1 group-title=” 20.00 EUROGOALS (rep 22.00) “,[COLOR green]20.00 EUROGOALS (rep 22.00)[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 20.00 EUROGOALS (rep 22.00) “,eurosport uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=17 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=” 20.00 EUROGOALS (rep 22.00) “,eurosport ru
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=2
+#EXTINF:-1 group-title=” 20.00 EUROGOALS (rep 22.00) “,eurosport ru_2
+http://edge.ailetv.net/org16/eurosportrus_me/playlist.m3u8
+
+#EXTINF:-1 group-title=” 21.00 eng WEST BROMWICH ALBION – CHELSIE “,[COLOR green]21.00 eng WEST BROMWICH ALBION – CHELSIE[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 21.00 eng WEST BROMWICH ALBION – CHELSIE “,ntv+futbol 1 ru
+http://edge.ailetv.net/org2/ntvplusfutbol_me/playlist.m3u8
+#EXTINF:-1 group-title=” 21.00 eng WEST BROMWICH ALBION – CHELSIE “,ntv+futbol 1 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_FUTBALL1SD/variant.m3u8?version=2
+#EXTINF:-1 group-title=” 21.00 eng WEST BROMWICH ALBION – CHELSIE “,idman tv Az
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8
+#EXTINF:-1 group-title=” 21.00 eng WEST BROMWICH ALBION – CHELSIE “,silk sport 1 ge
+rtmp://$OPT:rtmp-raw=rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_football/mp4:silk_football swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/
+#EXTINF:-1 group-title=” 21.00 eng WEST BROMWICH ALBION – CHELSIE “,futboll 1 HD ukr
+http://zhegal.com.ua/tv/mariupol?id=63
+#EXTINF:-1 group-title=” 21.00 eng WEST BROMWICH ALBION – CHELSIE “,sky sports 1 uk
+http://195.154.227.38:1935/live/skysports1lsh/playlist.m3u8
+#EXTINF:-1 group-title=” 21.00 eng WEST BROMWICH ALBION – CHELSIE “,tv3 sport 2 ace
+acestream://f19c7697775b856ec130b52d586a369460ef97d5
+#EXTINF:-1 group-title=” 21.00 eng WEST BROMWICH ALBION – CHELSIE “,viasat sport baltic ace
+acestream://9f672aadcf2bd5ce78dd4b7705ae913f06d6b95c
+
+#EXTINF:-1 group-title=” 21.00 ita NAPOLI – CESENA “,[COLOR green]21.00 ita NAPOLI – CESENA[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 21.00 ita NAPOLI – CESENA “,ntv+futbol 3 ru
+http://edge.ailetv.net/org2/football3_me/playlist.m3u8
+#EXTINF:-1 group-title=” 21.00 ita NAPOLI – CESENA “,ntv+futbol 3 ru
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_FUTBALL3SD/variant.m3u8?version=2
+#EXTINF:-1 group-title=” 21.00 ita NAPOLI – CESENA “,bt sport 1 uk
+http://195.154.227.38:1935/live/btsports1lsh/playlist.m3u8
+#EXTINF:-1 group-title=” 21.00 ita NAPOLI – CESENA “,supersport 2 al
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1 group-title=” 21.00 ita NAPOLI – CESENA “,sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=” 21.00 ita NAPOLI – CESENA “,c+liga de campeones es ace
+acestream://98a6f814f9e5cbf68d8ad48466500e1bf0c67911
+#EXTINF:-1 group-title=” 21.00 ita NAPOLI – CESENA “,fox sport arg
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8
+#EXTINF:-1 group-title=” 21.00 ita NAPOLI – CESENA “,futboll 2 HD ukr
+http://zhegal.com.ua/tv/mariupol?id=182
+
+#EXTINF:-1 group-title=” 21.00 por BOAVISTA – NAC.MADEIRA “,[COLOR green]21.00 por BOAVISTA – NAC.MADEIRA[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 21.00 por BOAVISTA – NAC.MADEIRA “,sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+
+#EXTINF:-1 group-title=” 22.15 swe FOTBOLLSKVALL “,[COLOR green]22.15 swe FOTBOLLSKVALL[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 22.15 swe FOTBOLLSKVALL “,svt2 swe
+http://188.138.9.228:8002
+
+#EXTINF:-1 group-title=” 1.00 mlb ST.LOUIS CARDINALS – NEW YORK METS “,[COLOR green]1.00 mlb ST.LOUIS CARDINALS – NEW YORK METS[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 1.00 mlb ST.LOUIS CARDINALS – NEW YORK METS “,espn HD la
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?byluca
 
 
 #EXTINF:-1, [COLOR yellow][I][B]RACCOONstreams WELCOME :)USA STREAMS[/B][/I][/COLOR]
