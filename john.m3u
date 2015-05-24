@@ -1311,36 +1311,6 @@ http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?
 #EXTINF:-1, BANDAMAX
 http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?
 
-#EXTINF:-1 tvg-logo=”BBCNews.png” group-title=”UK Live TV”, BBC News
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8?Vd?u#bt!25
-
-#EXTINF:-1 tvg-logo=”BBCOne.png” group-title=”UK Live TV”, BBC 1 ( Uk Only )
-http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_5/live/bbc_one_london/bbc_one_london.isml/bbc_one_london-audio_2=96000-video=1374000.m3u8?Vd?u#bt!25
-
-#EXTINF:-1 tvg-logo=”BBCTwo.png” group-title=”UK Live TV”, BBC 2
-http://81.23.58.184:8080/udp/0.0.0.0:20015?Vd?u#bt!25
-
-#EXTINF:-1 tvg-logo=”BBCTwo.png” group-title=”UK Live TV”, BBC 2
-http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc2.m3u8
-
-#EXTINF:-1 group-title=”UK Live TV”, BBC Alba
-http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbcalba.m3u8
-
-#EXTINF:-1 tvg-logo=”Boomerang.png” group-title=”UK Live TV”, Boomerang
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_BOOMERANG/variant.m3u8
-
-#EXTINF:-1 tvg-logo=”SkySciFiHorror.png” group-title=”UK Live TV”, Sky SciFiHorror
-rtmp://$OPT:rtmp-raw=rtmp://46.227.70.70:80/live playpath=mov2 live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=10
-
-#EXTINF:-1 tvg-logo=”BBCNews.png” group-title=”UK Live TV”, BBC News
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8?Vd?u#bt!25
-
-#EXTINF:-1 tvg-logo=”BBCOne.png” group-title=”UK Live TV”, BBC 1 ( Uk Only )
-http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_5/live/bbc_one_london/bbc_one_london.isml/bbc_one_london-audio_2=96000-video=1374000.m3u8?Vd?u#bt!25
-
-#EXTINF:-1 tvg-logo=”Boomerang.png” group-title=”UK Live TV”, Boomerang
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_BOOMERANG/variant.m3u8
-
 #EXTINF:-1,Apollon Tv
 rtmp://$OPT:rtmp-raw=rtmp://95.107.200.140/live/livestream1
 
@@ -4654,3 +4624,323 @@ http://iptvbein.ddns.net:89/testa/Skype:iptv.bein/161.ch
 #EXTINF:-1,Bein Sport 12
 http://iptvbein.ddns.net:89/testa/Skype:iptv.bein/162.ch
 
+#EXTINF:-1,
+
+#EXTINF:-1,UKTV Channel
+
+http://llnw.live.simplestream.com/coder6/coder.channels.channel6/hls/3/playlist.m3u8
+
+#EXTINF:-1,Unknown
+
+http://llnw.live.simplestream.com/coder3/coder.channels.channel2/hls/3/playlist.m3u8
+
+#EXTINF:-1,BBC One
+
+http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8
+
+#EXTINF:-1,BBC Two
+
+http://llnw.live.simplestream.com/mediaexcel01/channel02/3/prog_index.m3u8
+
+#EXTINF:-1,BBC Three
+
+http://llnw.live.simplestream.com/mediaexcel01/channel06/3/prog_index.m3u8
+
+#EXTINF:-1,BBC Four
+
+http://llnw.live.simplestream.com/coder7/coder.channels.channel4/hls/3/playlist.m3u8
+
+#EXTINF:-1,ITV1
+
+http://llnw.live.simplestream.com/mediaexcel01/channel03/3/prog_index.m3u8
+
+#EXTINF:-1,ITV2
+
+http://llnw.live.simplestream.com/coder12/coder.channels.channel8/hls/3/playlist.m3u8
+
+#EXTINF:-1,ITV3
+
+http://llnw.live.simplestream.com/coder12/coder.channels.channel10/hls/3/playlist.m3u8
+
+#EXTINF:-1,ITV4
+
+http://llnw.live.simplestream.com/coder12/coder.channels.channel12/hls/3/playlist.m3u8
+
+#EXTINF:-1,Channel 4
+
+http://llnw.live.simplestream.com/mediaexcel01/channel04/3/prog_index.m3u8
+
+#EXTINF:-1,Channel 5
+
+http://llnw.live.simplestream.com/mediaexcel01/channel05/3/prog_index.m3u8
+
+#EXTINF:-1,Channel 5 +24
+
+http://llnw.live.simplestream.com/coder8/coder.channels.channel12/hls/3/playlist.m3u8
+
+#EXTINF:-1,5 Star
+
+http://llnw.live.simplestream.com/coder8/coder.channels.channel8/hls/3/playlist.m3u8
+
+#EXTINF:-1,5 USA
+
+http://llnw.live.simplestream.com/coder8/coder.channels.channel14/hls/3/playlist.m3u8
+
+#EXTINF:-1,E4
+
+http://llnw.live.simplestream.com/coder10/coder.channels.channel21/hls/3/playlist.m3u8
+
+#EXTINF:-1,More 4
+
+http://llnw.live.simplestream.com/coder8/coder.channels.channel2/hls/3/playlist.m3u8
+
+#EXTINF:-1,Film Four
+
+http://llnw.live.simplestream.com/coder10/coder.channels.channel2/hls/3/playlist.m3u8
+
+#EXTINF:-1,4 Seven
+
+http://llnw.live.simplestream.com/coder8/coder.channels.channel6/hls/3/playlist.m3u8
+
+#EXTINF:-1,CBBC
+
+http://llnw.live.simplestream.com/coder2/coder.channels.channel5/hls/3/playlist.m3u8
+
+#EXTINF:-1,CBeebies
+
+http://llnw.live.simplestream.com/coder7/coder.channels.channel4/hls/3/playlist.m3u8
+
+#EXTINF:-1,Food Network (UK)
+
+http://llnw.live.simplestream.com/coder2/coder.channels.channel2/hls/3/playlist.m3u8
+
+#EXTINF:-1,Food Network +1 (UK)
+
+http://llnw.live.simplestream.com/coder2/coder.channels.channel8/hls/3/playlist.m3u8
+
+#EXTINF:-1,Horse & Country
+
+http://llnw.live.simplestream.com/coder3/coder.channels.channel5/hls/3/playlist.m3u8
+
+#EXTINF:-1,Community Channel
+
+http://llnw.live.simplestream.com/coder10/coder.channels.channel16/hls/3/playlist.m3u8
+
+#EXTINF:-1,True Movies 1
+
+http://llnw.live.simplestream.com/coder4/coder.channels.channel8/hls/3/playlist.m3u8
+
+#EXTINF:-1,True Movies 2
+
+http://llnw.live.simplestream.com/coder4/coder.channels.channel10/hls/3/playlist.m3u8
+
+#EXTINF:-1,Horror Channel
+
+http://llnw.live.simplestream.com/coder4/coder.channels.channel6/hls/3/playlist.m3u8
+
+#EXTINF:-1,Travel Channel (UK)
+
+http://llnw.live.simplestream.com/coder6/coder.channels.channel12/hls/3/playlist.m3u8
+
+#EXTINF:-1,Travel Channel +1 (UK)
+
+http://llnw.live.simplestream.com/coder6/coder.channels.channel14/hls/3/playlist.m3u8
+
+#EXTINF:-1,CBS Action
+
+http://llnw.live.simplestream.com/coder4/coder.channels.channel2/hls/3/playlist.m3u8
+
+#EXTINF:-1,Citv
+
+http://llnw.live.simplestream.com/coder8/coder.channels.channel5/hls/3/playlist.m3u8
+
+#EXTINF:-1,UC3
+
+http://llnw.live.simplestream.com/coder3/coder.channels.channel8/hls/3/playlist.m3u8
+
+#EXTINF:-1,The Jewellery Channel
+
+http://llnw.live.simplestream.com/coder3/coder.channels.channel18/hls/3/playlist.m3u8
+
+#EXTINF:-1,Fashion TV
+
+http://llnw.live.simplestream.com/coder6/coder.channels.channel8/hls/3/playlist.m3u8
+
+#EXTINF:-1,Box Nation
+
+http://llnw.live.simplestream.com/coder1/coder.channels.channel5/hls/3/playlist.m3u8
+
+#EXTINF:-1,Tiny Pop
+
+http://llnw.live.simplestream.com/coder4/coder.channels.channel12/hls/3/playlist.m3u8
+
+#EXTINF:-1,Pop
+
+http://llnw.live.simplestream.com/coder4/coder.channels.channel14/hls/3/playlist.m3u8
+
+#EXTINF:-1,Bloomberg
+
+http://llnw.live.simplestream.com/coder5/coder.channels.channel9/hls/3/playlist.m3u8
+
+#EXTINF:-1,Euronews
+
+http://llnw.live.simplestream.com/coder6/coder.channels.channel11/hls/3/playlist.m3u8
+
+#EXTINF:-1,Russia Today
+
+http://llnw.live.simplestream.com/coder7/coder.channels.channel2/hls/3/playlist.m3u8
+
+#EXTINF:-1,Al Jazeera News (English)
+
+http://llnw.live.simplestream.com/coder7/coder.channels.channel12/hls/3/playlist.m3u8
+
+#EXTINF:-1,France 24 News (English)
+
+http://llnw.live.simplestream.com/coder7/coder.channels.channel14/hls/3/playlist.m3u8
+
+#EXTINF:-1,NHK World
+
+http://llnw.live.simplestream.com/coder1/coder.channels.channel11/hls/3/playlist.m3u8
+
+#EXTINF:-1,BBC News
+
+http://llnw.live.simplestream.com/coder7/coder.channels.channel17/hls/3/playlist.m3u8
+
+#EXTINF:-1,At The Races
+
+http://llnw.live.simplestream.com/coder1/coder.channels.channel2/hls/1/playlist.m3u8
+
+#EXTINF:-1,GOD Channel
+
+http://llnw.live.simplestream.com/coder10/coder.channels.channel23/hls/3/playlist.m3u8
+
+#EXTINF:-1,Revelation TV
+
+http://llnw.live.simplestream.com/coder5/coder.channels.channel11/hls/3/playlist.m3u8
+
+#EXTINF:-1,Unknown Religious Channel
+
+http://llnw.live.simplestream.com/coder4/coder.channels.channel4/hls/3/playlist.m3u8
+
+#EXTINF:-1,BBC Alba
+
+http://llnw.live.simplestream.com/coder10/coder.channels.channel9/hls/3/playlist.m3u8
+
+#EXTINF:-1,Smash Hits
+
+http://llnw.live.simplestream.com/coder9/coder.channels.channel2/hls/3/playlist.m3u8
+
+#EXTINF:-1,4 Music
+
+http://llnw.live.simplestream.com/coder9/coder.channels.channel16/hls/3/playlist.m3u8
+
+#EXTINF:-1,Heat
+
+http://llnw.live.simplestream.com/coder9/coder.channels.channel88/hls/3/playlist.m3u8
+
+#EXTINF:-1,The BOX
+
+http://llnw.live.simplestream.com/coder9/coder.channels.channel12/hls/3/playlist.m3u8
+
+#EXTINF:-1,Planet Pop
+
+http://llnw.live.simplestream.com/coder8/coder.channels.channel11/hls/3/playlist.m3u8
+
+#EXTINF:-1,Kiss
+
+http://llnw.live.simplestream.com/coder9/coder.channels.channel14/hls/3/playlist.m3u8
+
+#EXTINF:-1,Capital TV
+
+http://llnw.live.simplestream.com/coder7/coder.channels.channel8/hls/3/playlist.m3u8
+
+#EXTINF:-1,Heart TV
+
+http://llnw.live.simplestream.com/coder7/coder.channels.channel10/hls/3/playlist.m3u8
+
+#EXTINF:-1,Channel AKA
+
+http://llnw.live.simplestream.com/coder6/coder.channels.channel2/hls/3/playlist.m3u8
+
+#EXTINF:-1,Now Thatís What I Call Music
+
+http://llnw.live.simplestream.com/coder6/coder.channels.channel5/hls/3/playlist.m3u8
+
+Clubland
+
+http://llnw.live.simplestream.com/coder2/coder.channels.channel11/hls/3/playlist.m3u8
+
+#EXTINF:-1,Corto 26
+http://videos-porno1.petardashd.com/archivos3/hd/hd-170731-060f53e.mp4
+
+#EXTINF:-1,Corto 27
+http://videos-porno2.petardashd.com/archivos3/hd/hd-166487-cbc0408.mp4
+
+#EXTINF:-1,Corto 28
+http://videos-porno5.petardashd.com/archivos3/hd/hd-172160-06574c0.mp4
+
+#EXTINF:-1,Corto 29
+http://videos-porno5.petardashd.com/archivos3/hd/hd-167129-cb87d4c.mp4
+
+#EXTINF:-1,Corto 30
+http://videos-porno2.petardashd.com/archivos3/hd/hd-171088-269e957.mp4
+
+#EXTINF:-1,Corto 31
+http://videos-porno8.petardashd.com/archivos3/hd/hd-167593-cb7cb5e.mp4
+
+#EXTINF:-1,Corto 32
+http://videos-porno1.petardashd.com/archivos3/hd/hd-169826-9ef34cc.mp4
+
+#EXTINF:-1,Corto 33
+http://videos-porno8.petardashd.com/archivos3/hd/hd-168664-cb605bb.mp4
+
+#EXTINF:-1,Corto 34
+http://videos-porno2.petardashd.com/archivos3/hd/hd-170213-05f1bd2.mp4
+
+#EXTINF:-1,Corto 35
+http://videos-porno2.petardashd.com/archivos3/hd/hd-166543-cb4208e.mp4
+
+#EXTINF:-1,Corto 36
+http://videos-porno1.petardashd.com/archivos3/hd/hd-171946-0609da9.mp4
+
+#EXTINF:-1,Corto 37
+http://videos-porno5.petardashd.com/archivos3/hd/hd-167704-cb3bbf3.mp4
+
+#EXTINF:-1,Corto 38
+http://videos-porno1.petardashd.com/archivos3/hd/hd-171174-25eabfb.mp4
+
+#EXTINF:-1,Corto 39
+http://videos-porno5.petardashd.com/archivos3/hd/hd-168818-cb39265.mp4
+
+#EXTINF:-1,Corto 40
+http://videos-porno8.petardashd.com/archivos3/hd/hd-169788-9e123a0.mp4
+
+#EXTINF:-1,Corto 41
+http://videos-porno1.petardashd.com/archivos3/hd/hd-168100-cb02850.mp4
+
+#EXTINF:-1,Corto 42
+http://videos-porno5.petardashd.com/archivos3/hd/hd-170013-0549e11.mp4
+
+#EXTINF:-1,Corto 43
+http://videos-porno5.petardashd.com/archivos3/hd/hd-167879-cae8a11.mp4
+
+#EXTINF:-1,Corto 44
+http://videos-porno2.petardashd.com/archivos3/hd/hd-171402-25c8c2b.mp4
+
+#EXTINF:-1,Corto 45
+http://videos-porno8.petardashd.com/archivos3/hd/hd-169360-cae3ee5.mp4
+
+#EXTINF:-1,Corto 46
+http://videos-porno8.petardashd.com/archivos3/hd/hd-169784-9ddd444.mp4
+
+#EXTINF:-1,Corto 47
+http://videos-porno5.petardashd.com/archivos3/hd/hd-166446-cac0bc8.mp4
+
+#EXTINF:-1,Corto 48
+http://videos-porno2.petardashd.com/archivos3/hd/hd-170616-04eb87d.mp4
+
+#EXTINF:-1,Corto 49
+http://videos-porno2.petardashd.com/archivos3/hd/hd-169288-ca5f2f4.mp4
+
+#EXTINF:-1,Corto 50
+http://videos-porno1.petardashd.com/archivos3/hd/hd-167337-ca5a5f9.mp4
